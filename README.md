@@ -3,7 +3,7 @@ ShopEase is a cutting-edge e-commerce web application developed using the latest
 
 # User Page
 
-![Ngshop](https://github.com/nk0854/ShopEase/assets/72222010/dcabd66a-fdbe-4dd3-9da5-e3b38e9e52d8)
+![start page](https://github.com/nk0854/ShopEase/assets/72222010/1c5a9d67-ed61-4ae6-8e5d-9a49206807d5)
 ![Screenshot 2023-09-19 132120](https://github.com/nk0854/ShopEase/assets/72222010/ae1bef8a-3aea-4cd7-b5ef-14880cf7fdb0)
 ![Screenshot 2023-09-19 132522](https://github.com/nk0854/ShopEase/assets/72222010/7b7256e5-e5bd-400e-ae57-d36b6856ee18)
 
